@@ -1,0 +1,7 @@
+Category,IP Address/Endpoint,Count
+Requests per IP,203.0.113.5,8
+Requests per IP,198.51.100.23,8
+Requests per IP,192.168.1.1,7
+Requests per IP,10.0.0.2,6
+Requests per IP,192.168.1.100,5
+Most Accessed Endpoint,/login,13
